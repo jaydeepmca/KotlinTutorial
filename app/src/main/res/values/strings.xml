@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinTutorial</string>
+
+    <string-array name="hint">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+    </string-array>
+</resources>
